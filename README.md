@@ -3,6 +3,7 @@
 Automated Get Grass Multi Account Airdrop Checker with this Nodejs bot, managing multiple Solana Wallet accounts to safely check the points. Perfect for those having multiple Get Grasss Accounts.
 
 TO Know more about Grass Tiers use - [https://dune.com/phanotmo/getgrass](https://dune.com/phanotmo/getgrass)
+
 Official Grass Checker - [https://www.grassfoundation.io/eligibility](https://www.grassfoundation.io/eligibility)
 
 # Features
