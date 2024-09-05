@@ -1,0 +1,17 @@
+{
+  "walletAddress": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,
+  "data": {
+    "result": {
+      "data": {
+        "closedalpha_tier3_user": 145.01,
+        "epoch2_tier8_user": 10.6,
+        "epoch1_tier8_user": 17.19,
+        "epoch3_tier8_user": 3.42,
+        "epoch4_tier8_user": 2.48,
+        "epoch7_tier8_user": 3.54,
+        "epoch6_tier9_user": 1.45,
+        "epoch5_tier9_user": 1.27
+      }
+    }
+  }
+}
